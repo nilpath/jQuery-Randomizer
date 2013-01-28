@@ -15,11 +15,11 @@
 		var settings = $.extend({
 			'audio' : {
 				'play' : true,
-				'url' : 'http://www.eugeneandtex.com/drumroll-15.mp3',
+				'url' : 'media/drumroll.mp3',
 				'type' : 'audio/mpeg'
 			},
 			'interval' : 10000,
-			'values' : null
+			'values' : ["one", "two"]
 		}, options);
 		
 		// Methods

@@ -23,7 +23,7 @@
 				'type' : 'audio/mpeg'
 			},
 			'interval' : 10000,
-			'values' : null
+			'values' : ["one", "two"]
 		}, options);
 		
 		// Methods
