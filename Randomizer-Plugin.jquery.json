@@ -1,0 +1,28 @@
+{
+  "name": "randomizer-plugin",
+  "title": "jQuery Randomizer Plugin",
+  "description": "A jQuery plugin made for pick something from a list at random.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nilpath/jQuery-Randomizer",
+  "author": {
+    "name": "Christoffer Åhrling",
+    "email": "christoffer@nilpath.se"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nilpath/jQuery-Randomizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nilpath/jQuery-Randomizer/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nilpath/jQuery-Randomizer/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
