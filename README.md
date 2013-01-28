@@ -33,7 +33,7 @@ The Randomizer plugin is used by initiating it on the DOM element that you want 
   {
   	audio : {
   		play : true,
-  		url : 'media/drumroll.mp3'
+  		url : 'media/drumroll.mp3',
   		type : 'audio/mpeg'
   	},
   	interval : 10000,
