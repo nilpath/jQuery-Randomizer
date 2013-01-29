@@ -1,6 +1,6 @@
 # Randomizer Plugin
 
-A jQuery plugin made for pick something from a list at random.
+A jQuery plugin made for pick something from a list at random. A demo can be found at [CodePen][http://codepen.io/nilpath/pen/FzEkl].
 
 ## Getting Started
 Download the [production version][min] or the [development version][max].
